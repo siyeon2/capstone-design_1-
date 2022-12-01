@@ -1,4 +1,4 @@
-# capstone-design_1-
+# capstone-design-
 
 
 -#과제1_ 영문제안서 및 피피티
