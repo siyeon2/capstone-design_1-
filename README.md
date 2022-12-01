@@ -15,8 +15,12 @@
 
 -#과제3
 
-- 최종 보고서 및 피피티
+- 피피티
 
+https://drive.google.com/drive/folders/1F19iFvjuys--WnVGCKL55Yo5XaJ2Vtgk?usp=share_link
+
+- 보고서
+[최종_보고서.zip](https://github.com/siyeon2/capstone-design_1-/files/10132622/_.zip)
 
 
 - 최종코드
