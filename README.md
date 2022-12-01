@@ -7,6 +7,7 @@
 
 
 -#과제2_ 중간보고서 및 피피티
+
 [중간.zip](https://github.com/siyeon2/capstone-design_1-/files/10128874/default.zip)
 
 
